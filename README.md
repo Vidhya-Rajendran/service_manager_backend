@@ -1,4 +1,4 @@
-# Backend API for Service Manager
+# Backend API for Service Manager - Python and Django
 
 ## Overview
 
